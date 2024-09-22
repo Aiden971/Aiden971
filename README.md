@@ -1,6 +1,7 @@
 # 💫 About Me:
 🔭 Explorer of The Cyber World. Passionate about Linux, Cyber Security, and Cyber Crime.<br>🧑‍💻 Looking for a job in Cyber Security and Forensics.<br>🌱 Currently learning how to enhance my digital CV
 
+> "If you can't meme the technical info, you don't understand it well enough."
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jdawoud) [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/show/4YpFWUcTfIKnGX128JeVDY?si=ef1f16d0d28145bc)
