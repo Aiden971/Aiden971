@@ -1,9 +1,9 @@
 # 💫 About Me:
-🔭 Explorer of The Cyber World. Passionate about Linux, Cyber Security, and Cyber Crime.<br>🧑‍💻 Looking for a job in Cyber Security and Forensics.<br>🌱 Currently learning how to enhance my digital CV
+🔭 Explorer of The cyber world. Passionate about Linux, Cyber Security, and cyber crime.<br>🧑‍💻 Looking for a job in Cyber Security and Digital Forensics.<br>🌱 Currently learning whatever piques my interest in the cyber space.
 
 > "If you can't meme the technical info, you don't understand it well enough."
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jdawoud) [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/show/4YpFWUcTfIKnGX128JeVDY?si=ef1f16d0d28145bc)
 
 # 💻 Skills:
@@ -13,5 +13,5 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Aiden971&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aiden971&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 🔝 Top Contributed Repo
+## 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Aiden971&limit=5&theme=dark&combine_all_yearly_contributions=true)
