@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Explorer of The cyber world. Passionate about Linux, Cyber Security, and cyber crime.<br>🧑‍💻 Looking for a job in Cyber Security and Digital Forensics.<br>🌱 Currently learning whatever piques my interest in the cyber space.
+🔭 Explorer of The cyber world. Passionate about operating systems, Cyber Security, and cyber crime.<br>🧑‍💻 I love the field of System Administration and brainstorming technical problems.<br>🌱 Currently learning whatever piques my interest in the cyber space.
 
 > "If you can't meme the technical info, you don't understand it well enough."
 
